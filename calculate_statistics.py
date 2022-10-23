@@ -8,3 +8,7 @@ def caulculate_std():
 
 def caulculate_moda():
     ...
+
+
+def caulculate_excess():
+    ...
