@@ -12,3 +12,7 @@ def caulculate_moda():
 
 def caulculate_excess():
     ...
+
+
+def caulculate_excess1():
+    ...
